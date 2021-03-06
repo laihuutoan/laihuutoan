@@ -1,6 +1,5 @@
 <div align="center"> <h2>🚀 Welcome to my house 🏯</h2></div>
 
----
 ### 🌋 Funny Jokes
 
 > "Have you heard about the object-oriented way to become wealthy?"
